@@ -1145,9 +1145,12 @@
     width: 700px;
   }
 
+  #es-loreal.es-loreal .es-use_photoCtn {
+    min-width: 250px;
+  }
+
   #es-loreal.es-loreal .es-use__photo {
-    width: 450px;
-    min-width: 300px;
+    width: 100%;
   }
 
   #es-loreal.es-loreal .es-use__desc {
